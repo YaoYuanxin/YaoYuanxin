@@ -4,7 +4,7 @@
 - 💞️ I am also extremely invested in becoming a full stack developer for data project, I will be updating my thoughts and 
 progress on this Github profile as often as I can
 
-- 📫 My Github might still be looking rather baren at the moment, but it will flourish as I consider my Github to
+- 📫 This Github is still looking rather empty, but I will fill it up soon with my past research and on going projects.I consider my Github to
 be my stach of codes, insights and any research progress.
 
 - LinkedIn https://www.linkedin.com/in/yuanxin-yao-87589890/
